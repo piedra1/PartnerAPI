@@ -1,0 +1,13 @@
+com/sourav/mymovie/partnerAPI/PartnerApiApplication.class
+com/sourav/mymovie/partnerAPI/entity/Partner.class
+com/sourav/mymovie/partnerAPI/entity/Theatre.class
+com/sourav/mymovie/partnerAPI/entity/City.class
+com/sourav/mymovie/partnerAPI/model/OnboardTheatreResponseDto.class
+com/sourav/mymovie/partnerAPI/model/OnboardTheatreRequestDto.class
+com/sourav/mymovie/partnerAPI/repository/MovieRepository.class
+com/sourav/mymovie/partnerAPI/repository/PartnerRepository.class
+com/sourav/mymovie/partnerAPI/service/PartnerService.class
+com/sourav/mymovie/partnerAPI/controller/PartnerController.class
+com/sourav/mymovie/partnerAPI/repository/TheatreRepository.class
+com/sourav/mymovie/partnerAPI/entity/Movie.class
+com/sourav/mymovie/partnerAPI/repository/CityRepository.class

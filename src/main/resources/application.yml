@@ -1,0 +1,28 @@
+server:
+  port: 8081
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/myshow
+    username: root
+    password: Potol@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  data:
+    jpa:
+      repositories:
+        enabled: true
+  rabbitmq:
+    username: guest
+    password: guest
+    port: 15672
+    host: localhost
+    connection-timeout: 3000
+    template:
+      exchange: my-exchange
+      retry:
+        max-attempts: 5
+        max-interval: 1000ms
+        enabled: true

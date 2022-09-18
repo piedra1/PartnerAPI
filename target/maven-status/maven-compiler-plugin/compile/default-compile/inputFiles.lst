@@ -1,0 +1,13 @@
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/repository/MovieRepository.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/model/OnboardTheatreResponseDto.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/service/PartnerService.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/entity/Theatre.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/repository/PartnerRepository.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/entity/City.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/repository/TheatreRepository.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/model/OnboardTheatreRequestDto.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/repository/CityRepository.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/controller/PartnerController.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/PartnerApiApplication.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/entity/Partner.java
+/home/sourav/Documents/partnerAPI/src/main/java/com/sourav/mymovie/partnerAPI/entity/Movie.java
